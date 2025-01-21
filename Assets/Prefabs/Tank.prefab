@@ -652,7 +652,7 @@ GameObject:
   - component: {fileID: 3543066311833609947}
   - component: {fileID: 6518518839932849167}
   - component: {fileID: 5090592267991651459}
-  - component: {fileID: 4365040009743944874}
+  - component: {fileID: 7490266124956639486}
   - component: {fileID: 7402448319152496094}
   m_Layer: 0
   m_Name: Tank
@@ -879,7 +879,7 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
---- !u!114 &4365040009743944874
+--- !u!114 &7490266124956639486
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -888,11 +888,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 4166135936216990103}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2b3e21422e254466810369536a65b19b, type: 3}
+  m_Script: {fileID: 11500000, guid: 6213543e868e4a008eaa9de7f85ad61e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _accelerationPower: 1
-  _fireDelaySec: 1
+  _rotateSpeed: 1
 --- !u!114 &7402448319152496094
 MonoBehaviour:
   m_ObjectHideFlags: 0
