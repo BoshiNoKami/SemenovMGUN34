@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: a9d9f91c6cbb74647a9a2fe08d4cded1
+  productGUID: 80de2edaee442c34d8828c6bda1425d1
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: SemenovMGUN34
+  productName: SemeovMGUN34
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -677,14 +677,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: SemenovMGUN34
+  metroPackageName: SemeovMGUN34
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: SemenovMGUN34
+  metroApplicationDescription: SemeovMGUN34
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -754,10 +754,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 09a64f98-d567-4b0d-a854-c57ef8951b26
+  cloudProjectId: 86391348-bd34-42a7-bfa0-6b30bd8484e6
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: SemenovMGUN34 2025-02-02_19-06-56
+  projectName: SemeovMGUN34
   organizationId: boshiinokami
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
